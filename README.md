@@ -1,1 +1,2 @@
 # p-gina-de-comida
+este es un proyecto personal de un sitio web de comidas rapidas, donde pongo en practica mis conocimientos de html y css utilizando flexbox, grid, etiquetas, formularios, insercion de imagenes de fondo, efectos de caja y mucho mas.
